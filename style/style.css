@@ -39,4 +39,9 @@ h2{
     text-align: center;
     font-size: 24px;
     font-family: "Playwrite US Modern", cursive;
+    transition:all 0.4s;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(27, 96, 96);
 }
